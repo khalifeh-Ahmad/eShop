@@ -1,0 +1,18 @@
+.navbar {
+   display: flex;
+   justify-content: space-between;
+   padding: 10px 0 10px 0;
+}
+
+.navbarLogo {
+   cursor: pointer;
+}
+
+ul {
+   display: flex;
+   list-style: none;
+}
+
+ul li {
+   margin-left: 30px;
+}

@@ -1,0 +1,352 @@
+[
+    {
+      "id": 1,
+      "product_title": "Backhoe",
+      "category": "Rubber",
+      "brand": "Plumber",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "42-841-7466",
+      "price": 2836
+    },
+    {
+      "id": 2,
+      "product_title": "Bulldozer",
+      "category": "Plastic",
+      "brand": "Ironworker",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "92-170-7392",
+      "price": 1487
+    },
+    {
+      "id": 3,
+      "product_title": "Backhoe",
+      "category": "Steel",
+      "brand": "Stucco Mason",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "66-597-7900",
+      "price": 6194
+    },
+    {
+      "id": 4,
+      "product_title": "Grader",
+      "category": "Plexiglass",
+      "brand": "Welder",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "60-281-1789",
+      "price": 4934
+    },
+    {
+      "id": 5,
+      "product_title": "Excavator",
+      "category": "Stone",
+      "brand": "Pipelayer",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "70-031-5413",
+      "price": 6288
+    },
+    {
+      "id": 6,
+      "product_title": "Crawler",
+      "category": "Plexiglass",
+      "brand": "Welder",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "85-319-1000",
+      "price": 1604
+    },
+    {
+      "id": 7,
+      "product_title": "Dump Truck",
+      "category": "Plastic",
+      "brand": "Electrician",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "89-132-8972",
+      "price": 8976
+    },
+    {
+      "id": 8,
+      "product_title": "Backhoe",
+      "category": "Plastic",
+      "brand": "Ironworker",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "34-101-3587",
+      "price": 7914
+    },
+    {
+      "id": 9,
+      "product_title": "Trencher",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "07-440-9054",
+      "price": 2600
+    },
+    {
+      "id": 10,
+      "product_title": "Scraper",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "60-573-4439",
+      "price": 8613
+    },
+    {
+      "id": 11,
+      "product_title": "Excavator",
+      "category": "Stone",
+      "brand": "Landscaper",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "45-165-4442",
+      "price": 5609
+    },
+    {
+      "id": 12,
+      "product_title": "Dragline",
+      "category": "Glass",
+      "brand": "Terrazzo",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "45-828-7350",
+      "price": 5283
+    },
+    {
+      "id": 13,
+      "product_title": "Scraper",
+      "category": "Granite",
+      "brand": "Tile Setter",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "33-083-6175",
+      "price": 5275
+    },
+    {
+      "id": 14,
+      "product_title": "Grader",
+      "category": "Vinyl",
+      "brand": "Pipefitter",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "48-241-3475",
+      "price": 3289
+    },
+    {
+      "id": 15,
+      "product_title": "Bulldozer",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "03-952-2819",
+      "price": 6188
+    },
+    {
+      "id": 16,
+      "product_title": "Grader",
+      "category": "Steel",
+      "brand": "Pipelayer",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "28-437-8658",
+      "price": 8300
+    },
+    {
+      "id": 17,
+      "product_title": "Excavator",
+      "category": "Aluminum",
+      "brand": "HVAC",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "04-058-4643",
+      "price": 2324
+    },
+    {
+      "id": 18,
+      "product_title": "Skid-Steer",
+      "category": "Granite",
+      "brand": "Linemen",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "75-079-0504",
+      "price": 4624
+    },
+    {
+      "id": 19,
+      "product_title": "Compactor",
+      "category": "Vinyl",
+      "brand": "Landscaper",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "47-308-7719",
+      "price": 3105
+    },
+    {
+      "id": 20,
+      "product_title": "Crawler",
+      "category": "Plexiglass",
+      "brand": "Brickmason",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "93-317-9486",
+      "price": 3254
+    },
+    {
+      "id": 21,
+      "product_title": "Dragline",
+      "category": "Steel",
+      "brand": "HVAC",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "74-876-9990",
+      "price": 1232
+    },
+    {
+      "id": 22,
+      "product_title": "Backhoe",
+      "category": "Brass",
+      "brand": "Electrician",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "76-371-4899",
+      "price": 9984
+    },
+    {
+      "id": 23,
+      "product_title": "Compactor",
+      "category": "Stone",
+      "brand": "Plasterers",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "70-522-3943",
+      "price": 4126
+    },
+    {
+      "id": 24,
+      "product_title": "Dragline",
+      "category": "Glass",
+      "brand": "Linemen",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "48-223-9584",
+      "price": 2152
+    },
+    {
+      "id": 25,
+      "product_title": "Dump Truck",
+      "category": "Glass",
+      "brand": "Pipefitter",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "30-326-7259",
+      "price": 1736
+    },
+    {
+      "id": 26,
+      "product_title": "Trencher",
+      "category": "Plastic",
+      "brand": "Carpenter",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "59-394-3276",
+      "price": 3169
+    },
+    {
+      "id": 27,
+      "product_title": "Excavator",
+      "category": "Plexiglass",
+      "brand": "Pipefitter",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "48-322-8338",
+      "price": 5569
+    },
+    {
+      "id": 28,
+      "product_title": "Skid-Steer",
+      "category": "Granite",
+      "brand": "Stucco Mason",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "91-440-4260",
+      "price": 4876
+    },
+    {
+      "id": 29,
+      "product_title": "Dragline",
+      "category": "Aluminum",
+      "brand": "Pipelayer",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "43-935-5479",
+      "price": 9115
+    },
+    {
+      "id": 30,
+      "product_title": "Backhoe",
+      "category": "Stone",
+      "brand": "Refridgeration",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "31-729-9793",
+      "price": 1516
+    },
+    {
+      "id": 31,
+      "product_title": "Bulldozer",
+      "category": "Aluminum",
+      "brand": "Stucco Mason",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "28-095-0384",
+      "price": 4105
+    },
+    {
+      "id": 32,
+      "product_title": "Grader",
+      "category": "Brass",
+      "brand": "Plasterers",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "49-000-0095",
+      "price": 3754
+    },
+    {
+      "id": 33,
+      "product_title": "Dump Truck",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "72-147-3853",
+      "price": 5582
+    },
+    {
+      "id": 34,
+      "product_title": "Grader",
+      "category": "Granite",
+      "brand": "Concrete Finisher",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "05-973-3746",
+      "price": 4104
+    },
+    {
+      "id": 35,
+      "product_title": "Dragline",
+      "category": "Stone",
+      "brand": "Concrete Finisher",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "74-151-2848",
+      "price": 5699
+    },
+    {
+      "id": 36,
+      "product_title": "Excavator",
+      "category": "Granite",
+      "brand": "Boilermaker",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "35-594-9919",
+      "price": 8675
+    },
+    {
+      "id": 37,
+      "product_title": "Trencher",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "46-493-1311",
+      "price": 2015
+    },
+    {
+      "id": 38,
+      "product_title": "Excavator",
+      "category": "Rubber",
+      "brand": "Waterproofer",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "16-992-7401",
+      "price": 9878
+    },
+    {
+      "id": 39,
+      "product_title": "Skid-Steer",
+      "category": "Steel",
+      "brand": "Glazier",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "81-259-4908",
+      "price": 3491
+    },
+    {
+      "id": 40,
+      "product_title": "Skid-Steer",
+      "category": "Plexiglass",
+      "brand": "Laborer",
+      "image_url": "https://api2.eprocurement.ae/images/products/BBS_12C2_Li-202C--Hero_1.jpg",
+      "part_number": "21-023-8535",
+      "price": 9325
+    }
+  ]
